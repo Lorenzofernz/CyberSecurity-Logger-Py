@@ -43,7 +43,3 @@ analyze_logs(): Reads the log file and highlights any ERROR events.
 Contribution
 
 Feel free to fork this repository, submit issues, and send pull requests to improve the project.
-
-License
-
-This project is licensed under the MIT License.
